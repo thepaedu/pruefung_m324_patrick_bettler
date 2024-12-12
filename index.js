@@ -1,4 +1,4 @@
-const myUnusedVariable = 42;
+const soBetterVarableName = 65642;
 
 if (myUnusedVariable === 42) {
   console.log('Variable is 42');
